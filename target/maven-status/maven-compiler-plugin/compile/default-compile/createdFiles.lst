@@ -1,0 +1,8 @@
+Newpackage\pageobject\CartPage.class
+Newpackage\pageobject\OrderPage.class
+Newpackage\pageobject\ProductCatalog.class
+Newpackage\pageobject\CheckoutPage.class
+AbstractComponents\AbstractComponent.class
+Newpackage\pageobject\ConformationPage.class
+Newpackage\pageobject\LandingPage.class
+Newpackage\resources\ExtentReporterNG.class
