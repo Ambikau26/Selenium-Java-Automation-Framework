@@ -1,4 +1,4 @@
-Automation Testing Framework - Selenium Java
+Selenium-Java-Automation-Framework
 
 Tech Stack
 - Java
